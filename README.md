@@ -5,6 +5,7 @@ NL2SQL is a TypeScript + Express backend that converts natural-language question
 The main idea is simple: before asking an LLM to generate SQL, the backend first understands the connected database schema. It extracts tables, columns, primary keys, foreign keys, and relationships, converts them into a structured schema graph, and uses that context to produce more grounded SQL responses.
 
 POSTMAN LINK - https://www.postman.com/shashanku346-9208905/workspace/nl2sql/collection/49663479-60940a90-c6f4-4c8b-acad-bab99bf9cab0?action=share&source=copy-link&creator=49663479
+
 DEPLOYED API LINK - https://nl2sql-v3pi.onrender.com/
 
 ## What Makes It Interesting
