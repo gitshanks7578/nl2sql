@@ -50,8 +50,6 @@ Controller Layer
 Prisma Database
 ```
 
-> Diagram placeholder: add a high-level architecture diagram here.
-
 ## Core Pipeline
 
 ```text
